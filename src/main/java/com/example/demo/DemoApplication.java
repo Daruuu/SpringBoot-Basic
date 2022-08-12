@@ -12,16 +12,17 @@ public class DemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(DemoApplication.class, args);
+        DemoApplication da = new DemoApplication();
+        da.loggerModExercise1();
+    }
+
+
+    public void loggerModExercise1(){
         LOGGER.info("An INFO Message");
         LOGGER.warn("A WARN Message");
         LOGGER.error("An ERROR Message");
         LOGGER.debug("A DEBUG Message");
     }
-/*
-    public void loggerModification(){
-        LOGGER.info("An INFO Message");
-        LOGGER.warning("A WARN Message");
-    }
 
- */
+
 }
