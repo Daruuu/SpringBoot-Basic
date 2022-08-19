@@ -1,0 +1,15 @@
+2022-08-19 16:47:25.597  INFO 46257 --- [restartedMain] com.example.demo.DemoApplication         : Starting DemoApplication using Java 11.0.16.1 on pop-os with PID 46257 (/home/daruuu/Documents/IntelliIDEAProjects/demo/target/classes started by daruuu in /home/daruuu/Documents/IntelliIDEAProjects/demo)
+2022-08-19 16:47:25.600  INFO 46257 --- [restartedMain] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2022-08-19 16:47:25.630  INFO 46257 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-08-19 16:47:25.631  INFO 46257 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-08-19 16:47:26.196  INFO 46257 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-08-19 16:47:26.201  INFO 46257 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-08-19 16:47:26.201  INFO 46257 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-08-19 16:47:26.228  INFO 46257 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-08-19 16:47:26.228  INFO 46257 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 597 ms
+2022-08-19 16:47:26.427  INFO 46257 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-08-19 16:47:26.456  INFO 46257 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-08-19 16:47:26.466  INFO 46257 --- [restartedMain] com.example.demo.DemoApplication         : Started DemoApplication in 1.119 seconds (JVM running for 1.709)
+2022-08-19 16:47:59.348  INFO 46257 --- [http-nio-8080-exec-3] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-08-19 16:47:59.349  INFO 46257 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-08-19 16:47:59.349  INFO 46257 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms

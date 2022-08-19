@@ -13,9 +13,9 @@ public class DemoApplication {
     public static void main(String[] args) {
         SpringApplication.run(DemoApplication.class, args);
         DemoApplication da = new DemoApplication();
-        da.loggerModExercise1();
-    }
+        //da.loggerModExercise1();
 
+    }
 
     public void loggerModExercise1(){
         LOGGER.info("An INFO Message");
